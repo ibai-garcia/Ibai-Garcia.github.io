@@ -1,0 +1,14 @@
+site_name: Mi Página Personal
+site_author: Ibai García Arias
+site_url: https://ibai-garcia.github.io
+
+theme:
+  name: readthedocs  # Prueba: material, mkdocs, readthedocs
+
+nav:
+  - Inicio: index.md
+  - Sobre Mí: sobre-mi.md
+  - Proyectos: proyectos.md
+  - Contacto: contacto.md
+
+repo_url: https://github.com/ibai-garcia/Ibai-Garcia.github.io
