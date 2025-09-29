@@ -1,4 +1,4 @@
-# ¡Hola! Soy Ibai 
+# ¡Hola! Soy Ibai Garcia
 
 Técnico Superior en automatización y robótica industrial y en Imagen para el diagnóstico y Medicina Nuclear, especializado en Inteligencia Artificial y Big Data.
 
@@ -11,9 +11,8 @@ Soy una persona proactiva, organizada y con gran interés por aprender. Me carac
 * `mkdocs build` - Build the documentation site.
 * `mkdocs -h` - Print help message and exit.
 
-## Project layout
+## Proyectos
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Contacto
+
+  
