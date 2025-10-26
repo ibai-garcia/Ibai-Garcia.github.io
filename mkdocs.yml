@@ -2,11 +2,10 @@ site_name: Ibai Web Page
 site_author: Ibai García Arias
 site_url: https://ibai-garcia.github.io
 
-extra_css:
-  - styles/custom.css
-
 
 # Tema Material
+extra_css:
+  - styles/custom.css
 theme:
   name: material
   font:
@@ -40,17 +39,6 @@ theme:
   icon:
     repo: fontawesome/brands/github
 
-# Navegación
-nav:
-  - Inicio: index.md
-  - Sobre Nosotros: about.md
-  - Servicios:
-      - Desarrollo Web: services/web.md
-      - Consultoría IT: services/consulting.md
-      - Soporte Técnico: services/support.md
-  - Equipo: team.md
-  - Blog: blog/index.md
-  - Contacto: contact.md
 
 # Extensiones de Markdown
 markdown_extensions:

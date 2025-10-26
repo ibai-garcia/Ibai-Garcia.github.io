@@ -1,3 +1,15 @@
+<!-- Hero full-screen -->
+<div class="landing-hero">
+  <div class="hero-overlay">
+    <div class="hero-content">
+      <h1>Ibai García</h1>
+      <p>IA · Big Data · Automatización industrial</p>
+      <a href="proyectos/" class="cta-button">Ver proyectos</a>
+    </div>
+  </div>
+</div>
+
+
 # ¡Hola! Soy Ibai Garcia
 
 Técnico Superior en automatización y robótica industrial y en Imagen para el diagnóstico y Medicina Nuclear, especializado en Inteligencia Artificial y Big Data.
