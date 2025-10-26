@@ -14,5 +14,3 @@ Soy una persona proactiva, organizada y con gran interés por aprender. Me carac
 ## Proyectos
 
 ## Contacto
-
-  

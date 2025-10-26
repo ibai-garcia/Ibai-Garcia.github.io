@@ -1,14 +1,74 @@
-site_name: Mi Página Personal
+site_name: Ibai Web Page
 site_author: Ibai García Arias
 site_url: https://ibai-garcia.github.io
 
+extra_css:
+  - styles/custom.css
+
+
+# Tema Material
 theme:
-  name: material  # Prueba: material, mkdocs, readthedocs
+  name: material
+  font:
+    text: Merriweather Sans
+    code: Red Hat Mono
+  logo: assets/images/IMG_9976.PNG            # Logo de la empresa
+  favicon: assets/images/IMG_9976.PNG         # Favicon
+  palette:
+    #Dark mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: purple
+      accent: deep purple
+
+    #Light mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: blue
+      accent: deep orange
+ 
+  features:
+    - navigation.tabs              # Pestañas en la parte superior
+    - navigation.top               # Barra superior fija
+    - content.code.copy            # Botón de copiar código
+    - search.highlight             # Resalta resultados de búsqueda
+    - toc.integrate                # TOC integrado en la página
+  icon:
+    repo: fontawesome/brands/github
+
+# Navegación
+nav:
+  - Inicio: index.md
+  - Sobre Nosotros: about.md
+  - Servicios:
+      - Desarrollo Web: services/web.md
+      - Consultoría IT: services/consulting.md
+      - Soporte Técnico: services/support.md
+  - Equipo: team.md
+  - Blog: blog/index.md
+  - Contacto: contact.md
+
+# Extensiones de Markdown
+markdown_extensions:
+  - admonition
+  - codehilite
+  - footnotes
+  - meta
+  - toc:
+      permalink: true
+  - pymdownx.superfences
+  - pymdownx.tabbed
 
 nav:
   - Inicio: index.md
   - Sobre Mí: sobre-mi.md
   - Proyectos: proyectos.md
   - Contacto: contacto.md
+  - Currículum: cv.md
 
 repo_url: https://github.com/ibai-garcia/Ibai-Garcia.github.io
+
