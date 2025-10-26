@@ -2,18 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://ibai-garcia.github.io/</loc>
-         <lastmod>2025-10-09</lastmod>
+         <lastmod>2025-10-26</lastmod>
     </url>
     <url>
          <loc>https://ibai-garcia.github.io/contacto/</loc>
-         <lastmod>2025-10-09</lastmod>
+         <lastmod>2025-10-26</lastmod>
+    </url>
+    <url>
+         <loc>https://ibai-garcia.github.io/cv/</loc>
+         <lastmod>2025-10-26</lastmod>
     </url>
     <url>
          <loc>https://ibai-garcia.github.io/proyectos/</loc>
-         <lastmod>2025-10-09</lastmod>
+         <lastmod>2025-10-26</lastmod>
     </url>
     <url>
          <loc>https://ibai-garcia.github.io/sobre-mi/</loc>
-         <lastmod>2025-10-09</lastmod>
+         <lastmod>2025-10-26</lastmod>
     </url>
 </urlset>
