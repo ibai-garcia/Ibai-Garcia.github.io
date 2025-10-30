@@ -1,7 +1,10 @@
-# Educación
+# 🎓 Educación
 
 Mi formación combina áreas técnicas, científicas y tecnológicas, lo que me permite tener una visión integral de la automatización industrial, el diagnóstico por imagen y la inteligencia artificial.  
-He enfocado mis estudios hacia la **aplicación de tecnologías avanzadas y el análisis de datos en entornos industriales y sanitarios**, buscando siempre unir el conocimiento técnico con la innovación digital.
+He enfocado mis estudios hacia la **aplicación de tecnologías avanzadas y el análisis de datos en entornos industriales y sanitarios**.
+
+
+<img src="../assets/images/logos.png" alt="Logos tecnológicos" style="display: block; margin: 1.5em auto; width: 80%; border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.4);">
 
 ---
 
@@ -24,4 +27,5 @@ He enfocado mis estudios hacia la **aplicación de tecnologías avanzadas y el a
 
 ## Bachillerato Biosanitario  
 **Centro:** C.F.SOMORROSTRO 
+
 **Periodo:** 2018 – 2020
