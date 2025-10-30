@@ -54,9 +54,11 @@ markdown_extensions:
 nav:
   - Inicio: index.md
   - Perfil Profesional: perfil.md
+  - Educación: educacion.md
   - Experiencia: experiencia.md
   - Contacto: contacto.md
   - Currículum: cv.md
+
 
 repo_url: https://github.com/ibai-garcia/Ibai-Garcia.github.io
 
