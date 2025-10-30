@@ -1,10 +1,11 @@
+
 <!-- Hero full-screen -->
 <div class="landing-hero">
   <div class="hero-overlay">
     <div class="hero-content">
-      <h1>Ibai García</h1>
-      <p>IA · Big Data · Automatización industrial</p>
-      <a href="proyectos/" class="cta-button">Ver proyectos</a>
+      <h1>Ibai García Arias</h1>
+      <p>IA · Big Data · Automatización y robótica industrial</p>
+      <a href="cv/" class="cta-button">Ver Currículum</a>
     </div>
   </div>
 </div>
@@ -26,3 +27,4 @@ Soy una persona proactiva, organizada y con gran interés por aprender. Me carac
 ## Proyectos
 
 ## Contacto
+
