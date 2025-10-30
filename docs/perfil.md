@@ -1,8 +1,7 @@
-## Perfil Profesional
+# 👨‍💻 Perfil Profesional
 
 Soy un técnico superior con formación multidisciplinar en **Automatización y Robótica Industrial** e **Imagen para el Diagnóstico y Medicina Nuclear**, actualmente ampliando mis conocimientos a través de una **especialización en Inteligencia Artificial y Big Data**.
 
-Mi trayectoria combina la precisión técnica del entorno industrial con el rigor analítico del ámbito sanitario, lo que me permite abordar proyectos tecnológicos desde una perspectiva global, orientada tanto a la **eficiencia operativa** como al **impacto en la salud y la sociedad**.
 
 Durante mi formación he adquirido conocimientos en:
 
@@ -14,7 +13,7 @@ Durante mi formación he adquirido conocimientos en:
 
 Mi objetivo profesional es **integrar la inteligencia artificial en entornos industriales y sanitarios**, impulsando la transformación digital a través del uso de datos, la automatización avanzada y el desarrollo de soluciones inteligentes.
 
-### Fortalezas
+### 💪 Fortalezas
 
 - Capacidad analítica y orientación a la mejora continua.  
 - Conocimientos en automatización, sensorización y control.  
@@ -24,7 +23,7 @@ Mi objetivo profesional es **integrar la inteligencia artificial en entornos ind
 
 ---
 
-### Qué me motiva
+### 🚀 Qué me motiva
 
 Me apasiona la intersección entre la tecnología y las personas: cómo la **IA, la robótica y los datos** pueden mejorar tanto los procesos industriales como la calidad del diagnóstico médico.
 
