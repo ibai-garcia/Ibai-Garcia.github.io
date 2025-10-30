@@ -19,8 +19,8 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Dark mode
-      primary: purple
-      accent: deep purple
+      primary: dark blue
+      accent: Light blue
 
     #Light mode
     - scheme: default
@@ -28,7 +28,7 @@ theme:
         icon: material/weather-night
         name: Light mode
       primary: blue
-      accent: deep orange
+      accent: dark blue
  
   features:
     - navigation.tabs              # Pestañas en la parte superior
