@@ -1,44 +1,58 @@
-# Experiencia Laboral
-  
-A través de programas de formación dual y prácticas en empresas líderes, he adquirido competencias técnicas, metodológicas y de trabajo en equipo que refuerzan mi perfil multidisciplinar.
+# 💼 Experiencia Laboral
+
+<div style="text-align: justify; font-size: 1.05rem; line-height: 1.8;">
+
+A través de programas de formación dual y prácticas en empresas líderes, he adquirido competencias técnicas, metodológicas y de trabajo en equipo que refuerzan mi perfil multidisciplinar y orientado a la innovación.
+
+</div>
 
 ---
 
-## Formación Dual — Técnicas Reunidas  
-**Periodo:** septiembre 2024 – junio 2025  
-**Rol:** Ayudante del Departamento de instrumentación con manejo en Smart Plant Instrumentation.
-
+## **Becario — Técnicas Reunidas**
+**📅 Periodo:** septiembre 2024 – junio 2025  
+**🎯 Rol:** Ayudante del Departamento de Instrumentación  
+**💻 Herramienta principal:** *Smart Plant Instrumentation (SPI)*  
 
 **Principales funciones:**
-- Inserción de instrumentos y de sus datos en SPI.  
-- Auditorías de los datos de los instrumentos.  
-- Encargos de los distintos proyectos.  
+
+- Inserción y gestión de instrumentos y sus datos en SPI.  
+- Auditorías y verificación de la calidad de los datos.  
+- Soporte en los distintos proyectos de instrumentación.
 
 ---
 
-## Prácticas — Consonni  
-**Periodo:** abril 2024  
-**Rol:** montaje de armarios eléctricos
+## **Becario — Consonni**
+**📅 Periodo:** abril 2024  
+**🎯 Rol:** Montaje de armarios eléctricos  
 
-Colaboré con el equipo ayudando con el montaje de armarios eléctricos. Desde el montaje hasta el cableado final de ellos.  
-
+**Descripción:**
+Colaboré con el equipo técnico en el **montaje completo de armarios eléctricos**, desde la interpretación de planos hasta el cableado final.  
 
 **Principales funciones:**
-- Primer montaje del armario.  
-- Revisión de planos eléctricos.  
-- Inserción de relés, diferenciales...  
-- Cableado completo de ellos.
+
+- Ensamblaje inicial de los armarios.  
+- Revisión y comprobación de planos eléctricos.  
+- Instalación de relés, diferenciales y componentes auxiliares.  
+- Cableado integral de los sistemas.
 
 ---
 
-## Prácticas — Hospital Quirón Salud  
-**Periodo:** febrero 2023 – junio 2024  
-**Rol:** Técnico en Imagen para el Diagnóstico y Medicina Nuclear 
+## **Becario — Hospital Quirón Salud**
+**📅 Periodo:** febrero 2023 – junio 2024  
+**🎯 Rol:** Técnico en Imagen para el Diagnóstico y Medicina Nuclear  
 
-Desarrollé mis prácticas en el área de radiodiagnóstico, participando en procedimientos de **radiología convencional, TAC y resonancia magnética**.  
-Durante este periodo fortalecí mi atención al detalle, responsabilidad y capacidad de trabajar bajo protocolos sanitarios.
+**Descripción:**
+Desarrollé mis prácticas en el área de **radiodiagnóstico**, participando en procedimientos de **radiología convencional, TAC y resonancia magnética**.  
+Durante este periodo fortalecí mi **atención al detalle**, **responsabilidad** y **capacidad de trabajar bajo protocolos sanitarios**.
 
 **Principales funciones:**
+
 - Colaboración en la adquisición y procesamiento de imágenes médicas.  
 - Preparación y acompañamiento de pacientes durante las exploraciones.  
-- Aplicación de normas de radioprotección.  
+- Aplicación de normas de radioprotección y seguridad radiológica.
+
+---
+
+<div style="text-align: center; font-style: italic; color: gray; margin-top: 1.5em;">
+Estas experiencias me han permitido integrar la tecnología, la precisión y la colaboración en cada entorno profesional.
+</div>
