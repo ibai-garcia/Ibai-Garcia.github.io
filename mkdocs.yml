@@ -53,8 +53,8 @@ markdown_extensions:
 
 nav:
   - Inicio: index.md
-  - Sobre Mí: sobre-mi.md
-  - Proyectos: proyectos.md
+  - Perfil Profesional: perfil.md
+  - Experiencia: experiencia.md
   - Contacto: contacto.md
   - Currículum: cv.md
 
